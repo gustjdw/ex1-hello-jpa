@@ -1,7 +1,6 @@
 package jpabasic.ex1hellojpa.hellojpa;
 
 import javax.persistence.*;
-import java.time.LocalDateTime;
 
 @Entity
 public class Member {
